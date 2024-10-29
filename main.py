@@ -26,7 +26,7 @@ lost = False
 
 screen = pygame.display.set_mode((600, 500))
 
-
+print("hello")
 class Pipe:
     def __init__(self, x, y):
         self.x = x
